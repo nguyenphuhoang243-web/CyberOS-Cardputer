@@ -86,3 +86,11 @@ MIT
 
 * I Think my Firmware have the best animation
 * Not have much tools than other Firmware but very beautiful and smooth🌟
+
+---
+
+## 💬 Feedback
+
+If you have suggestions, bugs or ideas, feel free to open an issue or contact me.
+
+👉 I really appreciate feedback to improve CyberOS 😈
