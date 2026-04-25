@@ -84,5 +84,5 @@ MIT
 
 ## 💭 Author's thoughts
 
-*I Think my Firmware have the best animation
-*Not have much tools than other Firmware but very beautiful and smooth🌟
+* I Think my Firmware have the best animation
+* Not have much tools than other Firmware but very beautiful and smooth🌟
