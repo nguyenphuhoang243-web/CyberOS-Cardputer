@@ -92,6 +92,7 @@ MIT
 ## 💬 Feedback
 
 If you have suggestions, bugs or ideas, feel free to open an issue or contact me.
+Or you can feedback at Issues
 
 👉 I really appreciate feedback to improve CyberOS 😈
 
