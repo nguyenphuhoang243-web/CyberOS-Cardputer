@@ -94,3 +94,12 @@ MIT
 If you have suggestions, bugs or ideas, feel free to open an issue or contact me.
 
 👉 I really appreciate feedback to improve CyberOS 😈
+
+---
+
+## ⚡ One-click flash (ESP32)
+
+### Option 1: ESPTool (recommended)
+
+```bash
+esptool.py --chip esp32 --port COM3 write_flash 0x1000 CyberOS.bin
